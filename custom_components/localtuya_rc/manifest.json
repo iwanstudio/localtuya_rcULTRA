@@ -1,6 +1,6 @@
 {
-  "domain": "localtuya_rc",
-  "name": "LocalTuyaIR ULTRA Remote Control",
+  "domain": "localtuya_ultra",
+  "name": "LocalTuya Remote Control ULTRA",
   "codeowners": [
     "@clusterm"
   ],
